@@ -2,7 +2,7 @@
 
 ## This is case study solution
 
-<font color=blue>**_Business Understanding:_**</font>
+**_Business Understanding:_**
 - Lending Club is a peer to peer lending company that utilizes a group of private investors to fund loan
 requests 
 - It has to make a decision for loan application approval based on the applicant’s profile and does risk
