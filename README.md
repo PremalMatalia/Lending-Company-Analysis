@@ -1,4 +1,4 @@
-# Lending-Company-Analysis
+# Lending-Company-Analysis (EDA)
 
 ## This is case study solution
 
